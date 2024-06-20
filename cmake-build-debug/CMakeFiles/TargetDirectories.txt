@@ -1,0 +1,3 @@
+/home/sloth/CLionProjects/alang/cmake-build-debug/CMakeFiles/alang.dir
+/home/sloth/CLionProjects/alang/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/sloth/CLionProjects/alang/cmake-build-debug/CMakeFiles/rebuild_cache.dir
